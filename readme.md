@@ -23,7 +23,7 @@ First, checkout this project locally and then follow these steps:
 
 
 
-## Notes & Tips
+## Notes & Tipss
 
 - If you make changes to your application, you will need to rebuild your image and restart your container.
 - The `docker-machine` command controls the virtual machine that is running Docker on your machine.
